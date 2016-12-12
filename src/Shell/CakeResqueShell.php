@@ -1,5 +1,5 @@
 <?php
-namespace CakeResque\shell;
+namespace CakeResque\Shell;
 
 use Cake\Console\Shell;
 use Cake\I18n\Time;
