@@ -1,6 +1,6 @@
 
 {
-  "name": "akkaweb/cake-resque",
+  "name": "cakedc/cake-resque",
   "description": "A CakePHP 3 plugin for creating background jobs with Resque",
   "version": "4.1.2",
   "keywords": [
